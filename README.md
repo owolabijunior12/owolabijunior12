@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @owolabijunior12
-- 👀 I’m interested in software engineer
+- 👋 Hi, I’m Owolabi Destiny Oluwanifemi.
+- 👀 I’m interested in software engineer.
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me owolabijunior12@gmail.com
