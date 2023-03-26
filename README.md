@@ -6,7 +6,7 @@ Frontend Web Developer
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [owolabijunior12@gmail.com](mailto:owolabijunior12@gmail.com)
-* 🧠  I'm learning React.Js
+* 🧠  I'm learning JavaScript 
 * 🤝  I'm open to collaborating on Projects
 
 <a href="https://www.twitter.com/Iboytech123" target="_blank" rel="noreferrer"><img
