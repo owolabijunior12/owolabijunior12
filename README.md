@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Owolabi Destiny Oluwanifemi
 =========================================================================================================================================
 
-Frontend Developer
+Javascript Developer
 ----------------------
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [owolabijunior12@gmail.com](mailto:owolabijunior12@gmail.com)
-* 🧠  I'm currently learning reactjs 
+* 🧠  I'm currently learning nodejs 
 * 🤝  I'm open to collaborating on projects
 
 <b >Social</b>
