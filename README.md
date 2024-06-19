@@ -37,14 +37,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   
 
 I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 * 🌍  I'm based in Lagos, Nigeria
-* :mailbox:How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-Iboytech-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/owolabi-destiny-oluwanifemi-231222265))
+* :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Iboytech-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/owolabi-destiny-oluwanifemi-231222265))
 * ✉️  You can contact me at [owolabijunior12@gmail.com](mailto:owolabijunior12@gmail.com)
-* 🧠  I'm currently learning nodejs 
+* 🧠  I'm currently learning C++ 
 * 🤝  I'm open to collaborating on projects
 
 
