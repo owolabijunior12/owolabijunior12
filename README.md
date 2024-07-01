@@ -22,13 +22,11 @@
 ### About Me :
 -  I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - 🌍  I'm based in Lagos, Nigeria
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- ✨ Full stack Developer with proficieny in javascript,react js,expressjs REST Framework, 2 years of hands-on experience,.
 - 👯 I’m looking to collaborate on cool stuffs
 - 💬 Ask me about Javascript
 -  :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Iboytech-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/owolabi-destiny-oluwanifemi-231222265))
 - ✉️  You can contact me at [owolabijunior12@gmail.com](mailto:owolabijunior12@gmail.com)
-- 🧠  I'm currently learning python 
+ 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
