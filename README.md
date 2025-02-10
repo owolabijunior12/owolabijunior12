@@ -17,7 +17,7 @@ I specialize in crafting **scalable, interactive, and efficient digital solution
 ### **🖥️ Full-Stack Web & Mobile Development**  
 I create **blazing-fast, intuitive, and scalable applications** using:  
 🚀 **Frontend:** React, Next.js, Vue.js, Tailwind CSS, Framer Motion  
-⚙️ **Backend:** Node.js, Express.js, MongoDB, SQL  
+⚙️ **Backend:** Node.js, Express.js, MongoDB
 📱 **Mobile:** React Native (because **why limit experiences to the web?**)  
 
 ### **🔌 Internet of Things (IoT) & Embedded Systems**  
