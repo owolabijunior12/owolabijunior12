@@ -1,10 +1,10 @@
-# 🚀 Owolabi Destiny Oluwnaifemi– Software Engineer | IoT Innovator | AI Explorer  
+# 🚀 Owolabi Destiny – Software Engineer | IoT Innovator | AI Explorer  
 
 ![Profile Banner](https://raw.githubusercontent.com/owolabijunior12/owolabijunior12/main/banner.png)  
 
 ## 👋 Welcome to My Digital Playground!  
 
-I am **Owolabi Destiny Oluwnaifemi**, a **problem solver, innovator, and creator of things that live on the internet and beyond**. Some call me a **Software Engineer**, others call me an **IoT Technologist**, but deep down, I’m just **someone obsessed with using technology to shape the future**.  
+I am **Owolabi Destiny**, a **problem solver, innovator, and creator of things that live on the internet and beyond**. Some call me a **Software Engineer**, others call me an **IoT Technologist**, but deep down, I’m just **someone obsessed with using technology to shape the future**.  
 
 I specialize in crafting **scalable, interactive, and efficient digital solutions**—whether it’s a **high-performance web app, a cross-platform mobile app, or an IoT system that bridges the gap between the digital and physical world**.  
 
@@ -17,7 +17,7 @@ I specialize in crafting **scalable, interactive, and efficient digital solution
 ### **🖥️ Full-Stack Web & Mobile Development**  
 I create **blazing-fast, intuitive, and scalable applications** using:  
 🚀 **Frontend:** React, Next.js, Vue.js, Tailwind CSS, Framer Motion  
-⚙️ **Backend:** Node.js, Express.js, Firebase, MongoDB  
+⚙️ **Backend:** Node.js, Express.js, MongoDB  
 📱 **Mobile:** React Native (because **why limit experiences to the web?**)  
 
 ### **🔌 Internet of Things (IoT) & Embedded Systems**  
@@ -41,6 +41,7 @@ I build **smart, connected devices** that integrate seamlessly with software app
 ## 🎓 **Certifications & Achievements**  
 
 📜 **Cisco Introduction to IoT** – Earned on **February 6, 2025**  
+🎓 **Ordinary National Diploma (OND) in Computer Science** – Yaba College of Technology  
 🏆 **Built a real-world IoT system** for LAMATA using ESP32  
 ⚽ **Former Football Goalkeeper** turned **Tech Defender** (because now I defend codebases instead of goalposts)  
 🌍 **Dreaming of contributing to large-scale AI-powered automation in IoT**  
@@ -51,7 +52,7 @@ I build **smart, connected devices** that integrate seamlessly with software app
 
 💡 **Coding Philosophy:** “Technology should feel like magic, but work like science.”  
 ⌨️ **Preferred Editor:** VS Code (with the perfect setup, of course!)  
-🚀 **Expo Router > React Navigation** (this isn’t up for debate 😆)  
+🚀 **React Navigation > Expo Router** (this isn’t up for debate 😆)  
 🎨 **Why Framer Motion?** Because animations should feel **alive**, not robotic.  
 ⚡ **Favorite Debugging Tool?** `console.log()` (just kidding… kinda).  
 🎧 **Code Fuel?** Good music + deep focus mode = unstoppable.  
