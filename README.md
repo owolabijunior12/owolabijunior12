@@ -1,10 +1,10 @@
-# 🚀 Owolabi Destiny – Software Engineer | IoT Innovator | AI Explorer  
+# 🚀 Owolabi Destiny Oluwanifemi – Software Engineer | IoT Innovator   
 
 ![Profile Banner](https://raw.githubusercontent.com/owolabijunior12/owolabijunior12/main/banner.png)  
 
 ## 👋 Welcome to My Digital Playground!  
 
-I am **Owolabi Destiny**, a **problem solver, innovator, and creator of things that live on the internet and beyond**. Some call me a **Software Engineer**, others call me an **IoT Technologist**, but deep down, I’m just **someone obsessed with using technology to shape the future**.  
+I am **Owolabi Destiny Oluwanifemi**, a **problem solver, innovator, and creator of things that live on the internet and beyond**. Some call me a **Software Engineer**, others call me an **IoT Technologist**, but deep down, I’m just **someone obsessed with using technology to shape the future**.  
 
 I specialize in crafting **scalable, interactive, and efficient digital solutions**—whether it’s a **high-performance web app, a cross-platform mobile app, or an IoT system that bridges the gap between the digital and physical world**.  
 
@@ -25,10 +25,6 @@ I build **smart, connected devices** that integrate seamlessly with software app
 ⚡ **Microcontrollers & Boards:** ESP32, Arduino  
 📡 **Communication Protocols:** MQTT, HTTP, WebSockets  
 🌍 **Real-World Integration:** Smart sensors, automation, and real-time data  
-
-### **🤖 AI-Powered Development**  
-💡 Exploring **AI-driven solutions** to optimize software and IoT interactions  
-⚙️ Experimenting with **Large Language Models (LLMs) & AI automation**  
 
 ### **🔒 Security & Optimization**  
 🔐 **Authentication & Security:** Secure APIs, authentication flows  
