@@ -1,61 +1,76 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/owolabi-destiny-oluwanifemi-231222265" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://www.twitter.com/Iboytech123" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a>
-  <a href="https://discord.com/users/iboy#3261" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a>
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=owolabijunior12&style=flat-square&color=blue"  alt=""/>
-</div>
+# 🚀 Owolabi Destiny – Software Engineer | IoT Innovator | AI Explorer  
 
-<h1 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+![Profile Banner](https://raw.githubusercontent.com/owolabijunior12/owolabijunior12/main/banner.png)  
 
+## 👋 Welcome to My Digital Playground!  
 
-### About Me :
--  I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- 🌍  I'm based in Lagos, Nigeria
-- 👯 I’m looking to collaborate on cool stuffs
-- 💬 Ask me about Javascript
--  :mailbox:How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Iboytech-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/owolabi-destiny-oluwanifemi-231222265))
-- ✉️  You can contact me at [owolabijunior12@gmail.com](mailto:owolabijunior12@gmail.com)
- 
+I am **Owolabi Destiny**, a **problem solver, innovator, and creator of things that live on the internet and beyond**. Some call me a **Software Engineer**, others call me an **IoT Technologist**, but deep down, I’m just **someone obsessed with using technology to shape the future**.  
+
+I specialize in crafting **scalable, interactive, and efficient digital solutions**—whether it’s a **high-performance web app, a cross-platform mobile app, or an IoT system that bridges the gap between the digital and physical world**.  
+
+💡 **Think of me as a tech architect**—someone who loves turning ideas into real-world solutions that **push boundaries**.  
+
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
+## 🛠️ **My Superpowers**  
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original.svg" title="framermotion" alt="framermotion" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+### **🖥️ Full-Stack Web & Mobile Development**  
+I create **blazing-fast, intuitive, and scalable applications** using:  
+🚀 **Frontend:** React, Next.js, Vue.js, Tailwind CSS, Framer Motion  
+⚙️ **Backend:** Node.js, Express.js, MongoDB, SQL  
+📱 **Mobile:** React Native (because **why limit experiences to the web?**)  
 
-  
+### **🔌 Internet of Things (IoT) & Embedded Systems**  
+I build **smart, connected devices** that integrate seamlessly with software applications:  
+⚡ **Microcontrollers & Boards:** ESP32, Arduino  
+📡 **Communication Protocols:** MQTT, HTTP, WebSockets  
+🌍 **Real-World Integration:** Smart sensors, automation, and real-time data  
+ 
 
+### **🔒 Security & Optimization**  
+🔐 **Authentication & Security:** Secure APIs, authentication flows  
+⚡ **Performance Optimization:** Efficient database queries, optimized UI/UX  
 
+💡 I don’t just build apps—I **engineer immersive experiences**.  
 
+---
 
-### :fire: My Stats :
+## 🎓 **Certifications & Achievements**  
 
-<a href="http://www.github.com/owolabijunior12"><img src="https://github-readme-stats.vercel.app/api?username=owolabijunior12&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=22c55e&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="owolabijunior12's GitHub stats" /></a>
+📜 **Cisco Introduction to IoT** – Earned on **February 6, 2025**  
+🏆 **Built a real-world IoT system** for LAMATA using ESP32  
+⚽ **Former Football Goalkeeper** turned **Tech Defender** (because now I defend codebases instead of goalposts)  
+🌍 **Dreaming of contributing to large-scale AI-powered automation in IoT**  
 
-<b>My GitHub Stats</b><br/>
-<a href="http://www.github.com/owolabijunior12"><img src="https://github-readme-streak-stats.herokuapp.com/?user=owolabijunior12&stroke=22c55e&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=22c55e&currStreakLabel=0891b2&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a> <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owolabijunior12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-### Support Me
-<a href="https://www.buymeacoffee.com/Iboytech123"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+---
+
+## 🤯 **The Fun Side of Me**  
+
+💡 **Coding Philosophy:** “Technology should feel like magic, but work like science.”  
+⌨️ **Preferred Editor:** VS Code (with the perfect setup, of course!)  
+🚀 **Expo Router > React Navigation** (this isn’t up for debate 😆)  
+🎨 **Why Framer Motion?** Because animations should feel **alive**, not robotic.  
+⚡ **Favorite Debugging Tool?** `console.log()` (just kidding… kinda).  
+🎧 **Code Fuel?** Good music + deep focus mode = unstoppable.  
+
+---
+
+## 📊 **GitHub Stats – Because Numbers Speak Louder Than Words**  
+
+![Destiny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=owolabijunior12&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owolabijunior12&layout=compact&theme=radical)  
+
+⚡ *Fun fact: I see every project as an adventure—one commit at a time!*  
+
+---
+
+## 🌍 **Let’s Build Something Revolutionary!**  
+
+🚀 **Portfolio:** [iboytech123.vercel.app](https://iboytech123.vercel.app/)  
+📍 **LinkedIn:** [Owolabi Destiny](https://www.linkedin.com/in/owolabi-destiny-oluwanifemi-231222265)  
+🐦 **Twitter (X):** [@iboytech123](https://twitter.com/iboytech123)  
+ 
+
+💡 **Got an idea? A crazy project? Want to collaborate?**  
+🔗 **Let’s talk and build something game-changing!**  
