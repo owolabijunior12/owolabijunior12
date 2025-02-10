@@ -51,7 +51,7 @@ I build **smart, connected devices** that integrate seamlessly with software app
 
 💡 **Coding Philosophy:** “Technology should feel like magic, but work like science.”  
 ⌨️ **Preferred Editor:** VS Code (with the perfect setup, of course!)  
-🚀 **Expo Router > React Navigation ** (this isn’t up for debate 😆)  
+🚀 **Expo Router > React Navigation** (this isn’t up for debate 😆)  
 🎨 **Why Framer Motion?** Because animations should feel **alive**, not robotic.  
 ⚡ **Favorite Debugging Tool?** `console.log()` (just kidding… kinda).  
 🎧 **Code Fuel?** Good music + deep focus mode = unstoppable.  
