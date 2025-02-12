@@ -36,7 +36,7 @@ I build **smart, connected devices** that integrate seamlessly with software app
 
 ## 🎓 **Certifications & Achievements**  
 
-📜 **Cisco Introduction to IoT** – Cidco network academy  
+📜 **Cisco Introduction to IoT** – Cisco Network Academy  
 🎓 **Ordinary National Diploma (OND) in Computer Science** – Yaba College of Technology  
 🏆 **Built a real-world IoT system** for LAMATA using ESP32  
 ⚽ **Former Football Goalkeeper** turned **Tech Defender** (because now I defend codebases instead of goalposts)  
