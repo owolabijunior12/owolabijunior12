@@ -55,7 +55,7 @@ I build **smart, connected devices** that integrate seamlessly with software app
 
 ## 📊 **GitHub Stats – Because Numbers Speak Louder Than Words**  
 
-![Destiny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=owolabijunior12&show_icons=true&theme=radical) 
+![Destiny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=owolabijunior12&show_icons=true&theme=radical) <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owolabijunior12&layout=compact&theme=radical)  
 
 ⚡ *Fun fact: I see every project as an adventure—one commit at a time!*  
