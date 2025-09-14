@@ -51,10 +51,13 @@ With **4+ years** in full-stack development, I bring ideas to life with:
 
 ---
 
-## 📊 **GitHub Stats – Stats So Good, You’ll Want to Frame Them!**  
-
-![Destiny's GitHub Stats](https://github-readme-stats.vercel.app/api?username=owolabijunior12&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=owolabijunior12&layout=compact&theme=radical)
+## 📊 **GitHub Stats – Stats So Good, You’ll Want to Frame Them!**
+<p align="center">
+<a href="https://github.com/owolabijunior12">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=owolabijunior12&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=owolabijunior12&layout=compact&langs_count=8&theme=merko"/>
+</a>
+</p>
 
 ⚡ **Fun fact:** I treat every project like an adventure—one commit at a time! 🏆  
 
